@@ -10,12 +10,13 @@ El objetivo de esta práctica es crear un pequeño laboratorio con dos servidore
 - Escritura de un playbook que use módulos (`debug`, `file`, `copy`), variables/facts (`ansible_hostname`, `ansible_distribution`), bucles (`loop`) y condicionales (`when`).
 
 ## Estructura del repositorio
-
+```text
 ansible-lab/
 ├── docker-compose.yml
 ├── inventory.ini
 ├── playbook.yml
 └── README.md
+```
 
 ## Requisitos previos
 
@@ -64,6 +65,11 @@ El playbook realiza, en ambos servidores:
 
 
 <img width="883" height="493" alt="image" src="https://github.com/user-attachments/assets/43432d99-cfea-4f30-9fe5-60364516383b" />
+
+
+## Link del repositorio en GitHub
+
+https://github.com/DelgisMArtinezPerez/practica10parcial
 
 
 ## 6. Limpieza (opcional)
