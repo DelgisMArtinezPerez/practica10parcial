@@ -60,7 +60,7 @@ El playbook realiza, en ambos servidores:
 
 ## 5. Captura de pantalla de la ejecución exitosa
 
-![Ejecución exitosa del playbook](screenshot-playbook.png)
+<img width="816" height="539" alt="image" src="https://github.com/user-attachments/assets/882da070-0322-498d-966a-37a706866d6c" />
 
 ## 6. Limpieza (opcional)
 
