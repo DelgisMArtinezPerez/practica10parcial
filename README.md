@@ -1,4 +1,4 @@
-# Laboratorio: Ansible + Docker (Dos servidores Linux)
+# Laboratorio: Ansible + Docker 
 
 ## Objetivo de la práctica
 
