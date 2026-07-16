@@ -62,6 +62,10 @@ El playbook realiza, en ambos servidores:
 
 <img width="816" height="539" alt="image" src="https://github.com/user-attachments/assets/882da070-0322-498d-966a-37a706866d6c" />
 
+
+<img width="883" height="493" alt="image" src="https://github.com/user-attachments/assets/43432d99-cfea-4f30-9fe5-60364516383b" />
+
+
 ## 6. Limpieza (opcional)
 
 ```bash
